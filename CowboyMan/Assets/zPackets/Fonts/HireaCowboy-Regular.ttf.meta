@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e9435318d05f3244896cbc364432b0e4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Hire a Cowboy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 038891c673a78ab47bc41cd4da0075f1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

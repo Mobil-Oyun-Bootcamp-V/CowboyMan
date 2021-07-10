@@ -1,0 +1,120 @@
+[api-updater (non-obsolete-error-filter)] 4.07.2021 21:10:15 : Starting C:/Users/ilker/Desktop/MyFiles/Apps/Unity/UnityPackages/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2342,9794ms
+moved types parse time: 118ms
+candidates parse time : 46ms
+C# parse time         : 1439ms
+candidates check time : 80ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4.07.2021 21:10:22 : Starting C:/Users/ilker/Desktop/MyFiles/Apps/Unity/UnityPackages/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 546,9151ms
+moved types parse time: 131ms
+candidates parse time : 2ms
+C# parse time         : 443ms
+candidates check time : 80ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 4.07.2021 21:11:10 : Starting C:/Users/ilker/Desktop/MyFiles/Apps/Unity/UnityPackages/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 154,9742ms
+moved types parse time: 140ms
+candidates parse time : 2ms
+C# parse time         : 497ms
+candidates check time : 81ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4.07.2021 21:47:30 : Starting C:/Users/ilker/Desktop/MyFiles/Apps/Unity/UnityPackages/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 10343,839ms
+moved types parse time: 97ms
+candidates parse time : 2ms
+C# parse time         : 740ms
+candidates check time : 118ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5.07.2021 00:14:00 : Starting C:/Users/ilker/Desktop/MyFiles/Apps/Unity/UnityPackages/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 450,4423ms
+moved types parse time: 102ms
+candidates parse time : 2ms
+C# parse time         : 388ms
+candidates check time : 98ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5.07.2021 00:14:06 : Starting C:/Users/ilker/Desktop/MyFiles/Apps/Unity/UnityPackages/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 283,1096ms
+moved types parse time: 211ms
+candidates parse time : 3ms
+C# parse time         : 469ms
+candidates check time : 95ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 6.07.2021 14:51:43 : Starting C:/Users/ilker/Desktop/MyFiles/Apps/Unity/UnityPackages/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 3768,4141ms
+moved types parse time: 191ms
+candidates parse time : 65ms
+C# parse time         : 3574ms
+candidates check time : 140ms
+console write time    : 13ms
+
+[api-updater (non-obsolete-error-filter)] 6.07.2021 15:21:17 : Starting C:/Users/ilker/Desktop/MyFiles/Apps/Unity/UnityPackages/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 154,9748ms
+moved types parse time: 101ms
+candidates parse time : 3ms
+C# parse time         : 933ms
+candidates check time : 100ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 6.07.2021 15:22:28 : Starting C:/Users/ilker/Desktop/MyFiles/Apps/Unity/UnityPackages/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 165,9739ms
+moved types parse time: 171ms
+candidates parse time : 3ms
+C# parse time         : 385ms
+candidates check time : 94ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 6.07.2021 17:43:53 : Starting C:/Users/ilker/Desktop/MyFiles/Apps/Unity/UnityPackages/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 488,9237ms
+moved types parse time: 110ms
+candidates parse time : 3ms
+C# parse time         : 377ms
+candidates check time : 93ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10.07.2021 12:32:40 : Starting C:/Users/ilker/Desktop/MyFiles/Apps/Unity/UnityPackages/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 3969,3834ms
+moved types parse time: 153ms
+candidates parse time : 34ms
+C# parse time         : 836ms
+candidates check time : 111ms
+console write time    : 15ms
+
+[api-updater (non-obsolete-error-filter)] 10.07.2021 13:31:39 : Starting C:/Users/ilker/Desktop/MyFiles/Apps/Unity/UnityPackages/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 503,9219ms
+moved types parse time: 103ms
+candidates parse time : 2ms
+C# parse time         : 417ms
+candidates check time : 175ms
+console write time    : 0ms
+
