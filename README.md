@@ -1,2 +1,2 @@
 # CowboyMan
-https://youtu.be/embed/BqyEHCKjNiU
+https://youtube.com/embed/BqyEHCKjNiU
