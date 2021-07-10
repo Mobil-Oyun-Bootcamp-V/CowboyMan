@@ -27,16 +27,10 @@ public class AnimationController : MonoBehaviour
     }
     void WalkingAnim()
     {
-        if (_animator == null) {
-            Debug.LogError("Arýyor");
-            _animator = GameObject.FindObjectOfType<Animator>();
-
-        }
         _animator.SetTrigger("IsWalk");
         _animator.ResetTrigger("IsSprint");
         _animator.ResetTrigger("IsSuperSprint");
         _animator.ResetTrigger("IsDead");
-
     }
     void SprintAnim()
     {
